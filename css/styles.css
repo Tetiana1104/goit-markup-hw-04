@@ -489,7 +489,8 @@ overflow: hidden;
 .footer-social-text {
     font-weight: 500;
     letter-spacing: 0.02em;
-    color: #f4f4fd;
+    line-height: 1.5;
+    color: #FFFFFF;
     margin-bottom: 16px;
 }
 
