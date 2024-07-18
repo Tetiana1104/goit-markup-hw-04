@@ -70,7 +70,7 @@ align-items: center;
     color: #2E2F42;
 }
 
-.footer-logo .logo-part {
+.footer-logo .logo-part{
     color: #f4f4fd;
 }
 
@@ -445,7 +445,7 @@ overflow: hidden;
         /* portfolio */
 
        /* footer */
-           footer {
+           .footer {
             background-color: #2e2f42;
             padding: 100px 0;
            }
@@ -453,8 +453,8 @@ overflow: hidden;
 
                    .footer-content{
                     display: flex;
-                        justify-content: flex-start;
-                        align-items: baseline;
+                    justify-content: flex-start;
+                    align-items: baseline;
                    }
 
 
@@ -463,18 +463,17 @@ overflow: hidden;
                margin-right: 120px;
            }
 
-.logo-footer-logo{
-        display: inline-block;
-        font-weight: 700;
-        font-size:18px;
-        line-height: 1.17;
-        initial-letter: 0.03;
-        text-transform: uppercase;
-        color: #4d5ae5;
-        margin-bottom: 16px;
-        
-
+.logo-footer-logo {
+    display: inline-block;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    initial-letter: 0.03;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    margin-bottom: 16px;
 }
+
 
  .footer-text{
         font-weight: 400;
@@ -483,7 +482,7 @@ overflow: hidden;
         letter-spacing: 0.02em;
         color: #FFFFFF;
         max-width: 264px;
-        padding-top: 16px;
+        margin-top: 16px;
  }
 
 .footer-social-text {
